@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Arnav Gupta** 
 
-## 🚀 AI/ML Enthusiast | 💻 Developer | 🎓 3rd Year Student at Manipal University Jaipur
+## 🚀 AI/ML Enthusiast | 💻 Developer | 🎓 4th Year Student at Manipal University Jaipur
 
 ### 🌟 About Me
 I'm a passionate **Artificial Intelligence & Machine Learning (AIML)** enthusiast with a background in Computer Science. I love building intelligent systems, solving real-world problems using data, and diving deep into cutting-edge technologies! 
