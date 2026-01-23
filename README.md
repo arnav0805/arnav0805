@@ -29,7 +29,7 @@ When I’m not coding, you’ll find me exploring new tech trends, contributing 
 ### 🌍 Let’s Connect:
 - 💼 [LinkedIn](https://linkedin.com/in/arnav0805gupta)  
 - 🐦 [Twitter](https://twitter.com/ArnavGupta20753)  
-- 📧 Email: arnav@example.com
+- 📧 Email: arnav0805@gmail.com
 
 ---
 
