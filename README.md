@@ -1,4 +1,4 @@
-#  Hey there! I'm **Arnav Gupta** 
+# **Arnav Gupta** 
 
 ##  AI/ML Enthusiast |  Developer |  4th Year Student at Manipal University Jaipur
 
