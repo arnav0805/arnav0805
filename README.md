@@ -5,7 +5,7 @@
 ###  About Me
 I'm a passionate **Artificial Intelligence & Machine Learning (AIML)** enthusiast with a background in Computer Science. I love building intelligent systems, solving real-world problems using data, and diving deep into cutting-edge technologies! 
 
-When I’m not coding, you’ll find me exploring new tech trends, contributing to hackathons, or brainstorming startup ideas. 💡
+When I’m not coding, you’ll find me exploring new tech trends, contributing to hackathons, or brainstorming startup ideas. 
 
 ###  What I Do:
 -  **Machine Learning**: Building and fine-tuning models for prediction, classification, and more!
