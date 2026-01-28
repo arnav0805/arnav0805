@@ -13,7 +13,7 @@ When I’m not coding, you’ll find me exploring new tech trends, contributing 
 - **Research**: I’m currently exploring AI-driven solutions in healthcare.
 - **Tech Events**: Organizing and participating in tech events, hackathons, and startup weekends!
 
-### 🔧 Tech Stack & Tools:
+### Tech Stack & Tools:
 - **Languages**: Python , C++
 - **AI/ML**: TensorFlow, OpenCV
 - **Databases**: MySQL
